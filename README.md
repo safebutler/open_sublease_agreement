@@ -2,7 +2,7 @@
 ### Made by real people for real people
 Let’s be real: subleasing can be risky for all parties involved. **That’s where SafeButler’s sublease agreement comes in.** Written in plain English and easy to understand, this document serves as a written agreement between the formal leaseholder and sublessee for the expectations of the sublease term.
 
-Everyone's sublease needs are different, so we've made this an open source file, meaning you can edit it fit your specific needs. **Simply submit a pull request to use it!**
+Everyone's sublease needs are different, so we've made this an open source file, meaning you can **edit it fit your specific needs.**
 
 This sublease agreement is much more relatable and relevant than the one you were going to copy from Google. But it's also much more useful. Have plants you need taken care of while you're subletting your place? Included. Got things that you'd prefer your lovely sublessee not use? Taken care of. **All you have to do is fill in the blanks.**
 
