@@ -1,4 +1,4 @@
-![sublease agreement header image](https://d2bx2pi9v1nae5.cloudfront.net/common/images/sublease/open-sublease-agreement.png)
+![sublease agreement header image](https://d2bx2pi9v1nae5.cloudfront.net/common/images/sublease/subleaseagreement.png)
 
 ## SafeButler's Sublease Agreement
 ### Made by real people for real people
