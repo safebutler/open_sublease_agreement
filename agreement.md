@@ -1,4 +1,6 @@
 # Sublease Agreement
+## *DISCLAIMER*
+THIS DOCUMENT IS INTENDED FOR ENTERTAINMENT PURPOSES ONLY AND DOES NOT SERVE AS A LEGALLY BINDING DOCUMENT NOR DOES IT COVER ALL LEGAL TERMS FOR SUBLETTING. CHECK YOUR STATE LAWS AND CODES FOR SUBLEASING REQUISITES.
 
 ### I. The Agreement
 This is an agreement to sublet the property at __________. The current leaseholder, ______, hereby referred to as “Subleaser,” agrees to let ______, hereby referred to as “Sublessee,” live here temporarily. 
