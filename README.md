@@ -10,5 +10,9 @@ This sublease agreement is much more relatable and relevant than the one you wer
 
 Plus, if your sublessee falls short of any terms, there are **real consequences**, like owing you lunch or a replacement plant if they kill one. 
 
+### *DISCLAIMER*
+THIS DOCUMENT IS INTENDED FOR ENTERTAINMENT PURPOSES ONLY AND DOES NOT SERVE AS A LEGALLY BINDING DOCUMENT NOR DOES IT COVER ALL LEGAL TERMS FOR SUBLETTING. CHECK YOUR STATE LAWS AND CODES FOR SUBLEASING REQUISITES.
+
+
 #### License
 GNU Free Documentation License. Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.3. or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
