@@ -4,7 +4,7 @@
 ### Made by real people for real people
 Let’s be real: subleasing can be risky for all parties involved. **That’s where SafeButler’s sublease agreement comes in.** Written in plain English and easy to understand, this document serves as a written agreement between the formal leaseholder and sublessee for the expectations of the sublease term.
 
-[Click here to access the lease agreement](agreement.md)
+[Click here to access the sublease agreement](agreement.md)
 
 Everyone's sublease needs are different, so we've made this an open source file, meaning you can **edit it fit your specific needs.**
 
